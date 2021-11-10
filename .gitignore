@@ -1,0 +1,5 @@
+dataset/
+sample_3_1_10000/
+sample_3_1_noise1_10000/
+venv/
+*.pth
